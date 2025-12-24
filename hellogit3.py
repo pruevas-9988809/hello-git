@@ -1,2 +1,2 @@
 s=tuple
-print(object(s))
+print(object(s), "v2")
