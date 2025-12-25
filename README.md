@@ -40,8 +40,11 @@ Una guía completa y práctica para dominar Git, desde los comandos básicos has
 ## ⚡ Alias de Git
 
 Acelera tu flujo de trabajo con estos alias útiles:
-
 ```bash
+~/.zshrc
+```
+```bash
+
 alias gs='git status'
 alias ga='git add'
 alias gc='git commit'
