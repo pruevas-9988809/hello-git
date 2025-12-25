@@ -1,2 +1,2 @@
 s=tuple
-print(object(s), "v login! ")
+print(object(s), "v logdin! ")
